@@ -4,7 +4,6 @@
   Augmented Robotic Manipulator (A.R.M)
   Partners: Branson Elliot and William Prody
 
-  Hi branson
   Hi Garrett
 
 */

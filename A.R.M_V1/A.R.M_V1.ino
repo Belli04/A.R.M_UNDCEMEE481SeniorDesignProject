@@ -30,8 +30,9 @@
 
 //=========================================Servo Things
 //Arm Servos
-Servo shoulder1Servo;
-Servo shoulder2Servo;
+Servo shoulderPitch1;
+Servo shoulderPitch2;
+Servo shoulderYaw;
 Servo elbowServo;
 Servo forearmServo;
 Servo wristServo;
@@ -44,11 +45,12 @@ Servo ringFingerServo;
 Servo pinkyFingerServo;
 
 //Servo Pins
-int shoulder1Pin = 0;
-int shoulder2Pin = 0;
-int elbowPin = 0;
-int forearmPin = 0;
-int wristPin = 0;
+int pitchPin1 = 13;
+int pitchPin2 = 12;
+int yawPin = 11;
+int elbowPin = 10;
+int forearmPin = 9;
+int wristPin = 8;
 
 int thumbPin = 0;
 int pointerFingerPin = 0;

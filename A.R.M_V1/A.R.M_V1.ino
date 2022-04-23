@@ -2,7 +2,7 @@
 /*Code written by Garrett Tjernagel for
   UND CEM EE480-481 SP22 Senior Design Capstone Project
   Augmented Robotic Manipulator (A.R.M)
-  Partners: Branson Elliot and William Prody
+  Partners: Branson Elliott and William Prody
 
   Hi Garrett
 
